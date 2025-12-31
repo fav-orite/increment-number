@@ -1,0 +1,1 @@
+Simply increments the first number found by 1. Default 100 iterations, easily adjustable.
