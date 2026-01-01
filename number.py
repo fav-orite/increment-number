@@ -40,7 +40,7 @@ def numberchange():
                 else:
                     #No valid number
                     outputs.append(current_text)
-                    print(f"No valid numbers found for {current_text}")
+                    print(f"No valid numbers found in {current_text}")
 
             iteration_count += 1
 
